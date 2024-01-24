@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/Tour-Plan/static/css/main.a1728117.css",
+    "main.js": "/github.io/Tour-Plan/static/js/main.04325fec.js",
+    "index.html": "/github.io/Tour-Plan/index.html",
+    "main.a1728117.css.map": "/github.io/Tour-Plan/static/css/main.a1728117.css.map",
+    "main.04325fec.js.map": "/github.io/Tour-Plan/static/js/main.04325fec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1728117.css",
+    "static/js/main.04325fec.js"
+  ]
+}
